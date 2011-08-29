@@ -15,7 +15,7 @@
  * @filesource http://github.com/jrbasso/MeioUpload
  * @version 2.2
  */
-App::import('Core', array('File', 'Folder'));
+App::import('Utility', array('File', 'Folder')); 
 
 /**
  * MeioUpload Behavior
